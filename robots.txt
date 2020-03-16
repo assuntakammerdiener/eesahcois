@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aboeweich.chenjunhao.cn/sitemap.xml
